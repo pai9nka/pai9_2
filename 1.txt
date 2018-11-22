@@ -1,0 +1,14 @@
+10/8/18, 08:51:28.121 [NOTICE] Bootstrapped 5%: Connecting to directory server 
+
+10/8/18, 08:51:28.123 [NOTICE] Bootstrapped 10%: Finishing handshake with directory server 
+
+10/8/18, 08:51:29.150 [WARN] Proxy Client: unable to connect to 104.37.169.12:52288 ("general SOCKS server failure") 
+
+10/8/18, 08:51:29.150 [NOTICE] Bootstrapped 15%: Establishing an encrypted directory connection 
+10/8/18, 08:51:29.170 [NOTICE] Bootstrapped 20%: Asking for networkstatus consensus 
+10/8/18, 08:51:29.219 [NOTICE] new bridge descriptor 'Unnamed' (fresh): $97708A7E3BF0AE60A8B855858A3A9DBB62BE0A7F~Unnamed at 94.46.12.237 
+10/8/18, 08:51:29.396 [WARN] Proxy Client: unable to connect to 104.37.169.12:52288 ("general SOCKS server failure") 
+10/8/18, 08:51:30.263 [WARN] Proxy Client: unable to connect to 104.37.169.12:52288 ("general SOCKS server failure") 
+10/8/18, 08:52:27.151 [NOTICE] Bootstrapped 25%: Loading networkstatus consensus 
+
+10/8/18, 08:53:37.584 [WARN] Proxy Client: unable to connect to 45.79.86.134:9443 ("general SOCKS server failure") 
