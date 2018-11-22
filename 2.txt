@@ -26,4 +26,4 @@ for bin in $(ls /usr/local/go/bin/); do
   update-alternatives --set $bin /usr/local/go/bin/$bin
 done
 
-3 изменение
+2 изменение

@@ -1,5 +1,5 @@
 10/8/18, 08:51:28.121 [NOTICE] Bootstrapped 5%: Connecting to directory server 
-Это первое изменение
+Это 2  изменение
 10/8/18, 08:51:28.123 [NOTICE] Bootstrapped 10%: Finishing handshake with directory server 
 
 10/8/18, 08:51:29.150 [WARN] Proxy Client: unable to connect to 104.37.169.12:52288 ("general SOCKS server failure") 
