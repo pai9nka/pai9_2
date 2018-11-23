@@ -27,3 +27,4 @@ for bin in $(ls /usr/local/go/bin/); do
 done
 
 2 изменение
+3 изменение
